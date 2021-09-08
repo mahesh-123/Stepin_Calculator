@@ -23,6 +23,8 @@ Folder                   | Description
   
   [![Code Grade](https://www.code-inspector.com/project/27954/status/svg)](https://www.code-inspector.com)
   
+  [![CI](https://github.com/mahesh-123/Stepin_Calculator/actions/workflows/main.yml/badge.svg)](https://github.com/mahesh-123/Stepin_Calculator/actions/workflows/main.yml)
+  
   
   
   
