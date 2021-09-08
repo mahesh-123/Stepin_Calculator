@@ -15,7 +15,7 @@ Folder                   | Description
 `5_Report`               | Documentation of whole project
 `6_ImagesAndVideos`      | Code Execution Images and Videos
 
-  Badges:https://www.code-inspector.com/project/27954/score/svg
+  Badges:[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e5dc47c120bf454c9560a7ffd6ce5928)](https://www.codacy.com/gh/mahesh-123/Stepin_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mahesh-123/Stepin_Calculator&amp;utm_campaign=Badge_Grade)
   
 
 ## Contributors List and Summary
