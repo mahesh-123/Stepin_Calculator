@@ -25,6 +25,8 @@ Folder                   | Description
   
   [![CI](https://github.com/mahesh-123/Stepin_Calculator/actions/workflows/main.yml/badge.svg)](https://github.com/mahesh-123/Stepin_Calculator/actions/workflows/main.yml)
   
+  [![Git Inspector](https://github.com/mahesh-123/Stepin_Calculator/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/mahesh-123/Stepin_Calculator/actions/workflows/Git_Inspector.yml)
+  
   
   
   
