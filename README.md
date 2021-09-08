@@ -16,6 +16,7 @@ Folder                   | Description
 `6_ImagesAndVideos`      | Code Execution Images and Videos
 
   Badges:https://www.code-inspector.com/project/27954/score/svg
+  https://www.code-inspector.com/project/27954/status/svg
 
 ## Contributors List and Summary
 
