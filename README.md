@@ -15,6 +15,7 @@ Folder                   | Description
 `5_Report`               | Documentation of whole project
 `6_ImagesAndVideos`      | Code Execution Images and Videos
 
+  Badges:https://www.code-inspector.com/project/27954/score/svg
 
 ## Contributors List and Summary
 
@@ -34,5 +35,5 @@ PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|
 |5. |gcov generating *.gcda and *.gcno files in different directory than object file| not fixed yet| 
 
 
-Badges
-https://www.code-inspector.com/project/27862/score/svg
+
+
