@@ -18,7 +18,7 @@ Folder                   | Description
   Badges:  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e5dc47c120bf454c9560a7ffd6ce5928)](https://www.codacy.com/gh/mahesh-123/Stepin_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mahesh-123/Stepin_Calculator&amp;utm_campaign=Badge_Grade)
   
   
-  [![Code Grade](https://www.code-inspector.com/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.code-inspector.com)
+  
   
   
   
