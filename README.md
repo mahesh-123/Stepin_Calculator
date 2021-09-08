@@ -19,6 +19,8 @@ Folder                   | Description
   
   [![Code Quality](https://www.code-inspector.com/project/27954/score/svg)](https://www.code-inspector.com)
   
+  [![Code Grade](https://www.code-inspector.com/project/27954/status/svg)](https://www.code-inspector.com)
+  
   
   
   
